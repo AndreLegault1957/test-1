@@ -1,0 +1,17 @@
+/* to day learn a little bit more  but still  learning some basic command incrementation number ++ pace a text in javascript // ou/*
+ex ++score; ou score ++  depending of the result we whant */
+// how to calculate  a += b ou a-=b it same for basic calculating 
+string with nuber how to cerate the good number parseIntroud number  et parseFloat with decimal number
+var score = 10;
+if(score === )   alert("OUI LA CONDITION A ETE REMPLIE")
+var score = 10;
+if(score === 10 ){  
+    alert("OUI LA CONDITION A ETE REMPLIE");
+    }
+    else if (score === 11) {
+        alert("OUI LA SECONDE CONDITION A ETE REMPLIE");
+    }
+    else { 
+        alert("non la condition n'a pas ete remplis");
+    }
+    // if I change the number in line 8
